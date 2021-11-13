@@ -9,10 +9,15 @@ Here I have build a simple assignment which has given by brac jpgsph
 
 #installation process 
 1.download the project from github
-2.import database which brac.sql
+2.import database which is brac.sql
 3.database details:
     $dbHost = "localhost";
     $dbUser = "root";
     $dbPass = "";
     $dbName ="brac";
     
+#follow my others project like 
+
+https://daters.in/
+https://https://transfotechacademy.com/
+https://hatsupershop.com/

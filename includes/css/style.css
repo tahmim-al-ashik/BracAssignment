@@ -1,0 +1,25 @@
+.navbar-custom{
+    background-color: #0275d8;
+    height:65% !important;
+    margin:0px auto;
+    left:0;
+    right:0;
+    padding:0;
+}
+
+.logo{
+   height: 4rem;
+}
+
+/*.table{*/
+/*    display: block !important;*/
+/*    overflow-x: auto !important;*/
+/*    width: 100% !important;*/
+/*}*/
+/*!*.navbar{*!*/
+/*    width:65% !important;*/
+/*    margin:0px auto;*/
+/*    left:0;*/
+/*    right:0;*/
+/*    padding:0;*/
+/*}*/
